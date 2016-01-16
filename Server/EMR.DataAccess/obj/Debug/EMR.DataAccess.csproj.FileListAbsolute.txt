@@ -1,0 +1,14 @@
+E:\Management\ERecordService\EMR.DataAccess\bin\Debug\EMR.DataAccess.dll
+E:\Management\ERecordService\EMR.DataAccess\bin\Debug\EMR.DataAccess.pdb
+E:\Management\ERecordService\EMR.DataAccess\bin\Debug\EMR.DataModel.dll
+E:\Management\ERecordService\EMR.DataAccess\bin\Debug\EMR.DataModel.pdb
+E:\Management\ERecordService\EMR.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Management\ERecordService\EMR.DataAccess\obj\Debug\EMR.DataAccess.dll
+E:\Management\ERecordService\EMR.DataAccess\obj\Debug\EMR.DataAccess.pdb
+E:\Management\EMR.DataAccess\bin\Debug\EMR.DataAccess.dll
+E:\Management\EMR.DataAccess\bin\Debug\EMR.DataAccess.pdb
+E:\Management\EMR.DataAccess\bin\Debug\EMR.DataModel.dll
+E:\Management\EMR.DataAccess\bin\Debug\EMR.DataModel.pdb
+E:\Management\EMR.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Management\EMR.DataAccess\obj\Debug\EMR.DataAccess.dll
+E:\Management\EMR.DataAccess\obj\Debug\EMR.DataAccess.pdb

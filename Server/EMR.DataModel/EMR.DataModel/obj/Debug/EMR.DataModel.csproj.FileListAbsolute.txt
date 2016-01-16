@@ -1,0 +1,6 @@
+E:\Management\EMR.DataModel\EMR.DataModel\bin\Debug\EMR.DataModel.dll.config
+E:\Management\EMR.DataModel\EMR.DataModel\bin\Debug\EMR.DataModel.dll
+E:\Management\EMR.DataModel\EMR.DataModel\bin\Debug\EMR.DataModel.pdb
+E:\Management\EMR.DataModel\EMR.DataModel\obj\Debug\ResolveAssemblyReference.cache
+E:\Management\EMR.DataModel\EMR.DataModel\obj\Debug\EMR.DataModel.dll
+E:\Management\EMR.DataModel\EMR.DataModel\obj\Debug\EMR.DataModel.pdb

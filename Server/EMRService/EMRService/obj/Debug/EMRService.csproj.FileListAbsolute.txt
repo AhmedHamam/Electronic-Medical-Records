@@ -1,0 +1,11 @@
+E:\Management\EMRService\EMRService\bin\EMRService.dll
+E:\Management\EMRService\EMRService\bin\EMRService.pdb
+E:\Management\EMRService\EMRService\bin\EMR.Business.dll
+E:\Management\EMRService\EMRService\bin\EMR.DataModel.dll
+E:\Management\EMRService\EMRService\bin\EMR.DataAccess.dll
+E:\Management\EMRService\EMRService\bin\EMR.Business.pdb
+E:\Management\EMRService\EMRService\bin\EMR.DataModel.pdb
+E:\Management\EMRService\EMRService\bin\EMR.DataAccess.pdb
+E:\Management\EMRService\EMRService\obj\Debug\ResolveAssemblyReference.cache
+E:\Management\EMRService\EMRService\obj\Debug\EMRService.dll
+E:\Management\EMRService\EMRService\obj\Debug\EMRService.pdb

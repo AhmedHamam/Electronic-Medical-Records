@@ -1,0 +1,16 @@
+E:\Management\EMRServiceAgent\bin\Debug\EMRServiceAgent.dll.config
+E:\Management\EMRServiceAgent\bin\Debug\EMRServiceAgent.dll
+E:\Management\EMRServiceAgent\bin\Debug\EMRServiceAgent.pdb
+E:\Management\EMRServiceAgent\obj\Debug\ResolveAssemblyReference.cache
+E:\Management\EMRServiceAgent\obj\Debug\EMRServiceAgent.dll
+E:\Management\EMRServiceAgent\obj\Debug\EMRServiceAgent.pdb
+E:\Management\EMRServiceAgent\bin\Debug\EMRPresentationEntity.dll
+E:\Management\EMRServiceAgent\bin\Debug\EMRPresentationEntity.pdb
+E:\Management\EMR\Client\EMRServiceAgent\bin\Debug\EMRServiceAgent.dll.config
+E:\Management\EMR\Client\EMRServiceAgent\bin\Debug\EMRServiceAgent.dll
+E:\Management\EMR\Client\EMRServiceAgent\bin\Debug\EMRServiceAgent.pdb
+E:\Management\EMR\Client\EMRServiceAgent\bin\Debug\EMRPresentationEntity.dll
+E:\Management\EMR\Client\EMRServiceAgent\bin\Debug\EMRPresentationEntity.pdb
+E:\Management\EMR\Client\EMRServiceAgent\obj\Debug\ResolveAssemblyReference.cache
+E:\Management\EMR\Client\EMRServiceAgent\obj\Debug\EMRServiceAgent.dll
+E:\Management\EMR\Client\EMRServiceAgent\obj\Debug\EMRServiceAgent.pdb
